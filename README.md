@@ -7,8 +7,11 @@
 4.	Real-time Audio Playback: The application supports real-time audio playback for recorded and decrypted audio files, providing users with instant feedback on the encryption and decryption processes.
 
 **Technology Stack**:
+
 •	Programming Language: Python
+
 •	GUI Library: Tkinter
+
 •	Audio Processing: PyAudio, Numpy, Wave
 
 **Getting Started**:
