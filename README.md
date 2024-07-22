@@ -20,3 +20,10 @@
 3.	Clone the Repository: Clone the project repository from the version control system.
 4.	Launch the Application: Run the main Python script to launch the GUI application.
 5.	Use the Application: Follow the GUI instructions to record, encrypt, decrypt, and play audio files.
+
+## Team Members
+- [Ahmed Selim Mahmoud](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Hager Mohamed Ahmed](https://www.linkedin.com/in/hager-hagezy-4253a4250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mariam Hassan Elsaka](https://www.linkedin.com/in/mariam-el-saka-18a195224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Arwa Mohamed Ali](https://www.linkedin.com/in/arwa-mohamed-375793318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Karem Elsayed Mahmoud](https://www.linkedin.com/in/karem-mansor-232a77291)
